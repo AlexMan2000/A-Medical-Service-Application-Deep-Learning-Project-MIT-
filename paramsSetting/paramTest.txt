@@ -1,0 +1,40 @@
+python cnn_train.py -r G:\tempout\training.npy -v G:\tempout\validation.npy -o G:\tempout\model\ -b 1 -s 50 -c 20 -g False
+
+
+python preprocess.py -s 15 -c 6 -o G:\tempout\very_small_dataset\ -i E:\stage1\stage1\ -m E:\stage1\stage1_labels.csv
+
+python splitter.py -d G:\tempout\smaller_dataset\tempout.npy -r 0.6 -t 0.2 -v 0.2 -o G:\tempout\smaller_dataset\
+
+config = self.__get_processor()
+
+
+
+
+
+
+
+python cnn_train.py -r G:\tempout\smaller_dataset\training.npy -v G:\tempout\smaller_dataset\validation.npy -o G:\tempout\model2\ -b 1 -s 30 -c 20 -e 100
+
+
+
+python cnn_test.py -f G:\tempout\model\ -t G:\tempout\smaller_dataset\test.npy  -b 1 -s 30 -c 20 -e 100 -k 1.0
+
+
+
+
+
+
+
+
+
+
+python preprocess.py -s 30 -c 12 -o G:\tempout\smaller_dataset\ -i E:\stage1\stage1\ -m E:\stage1\stage1_labels.csv
+
+
+
+python splitter.py -d G:\tempout\very_small_dataset\tempout.npy -r 0.6 -t 0.2 -v 0.2 -o G:\tempout\very_small_dataset\
+
+
+
+python cnn_train.py -r G:\tempout\very_small_dataset\training.npy -v G:\tempout\very_small_dataset\validation.npy -o G:\tempout\model\ -b 1 -s 15 -c 6 
+

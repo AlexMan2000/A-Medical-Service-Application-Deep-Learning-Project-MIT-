@@ -1,0 +1,2 @@
+model_checkpoint_path: "Vnet3d.pd-50000"
+all_model_checkpoint_paths: "Vnet3d.pd-50000"

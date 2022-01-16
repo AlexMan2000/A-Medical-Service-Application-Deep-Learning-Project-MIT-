@@ -1,0 +1,45 @@
+ ophthalmology
+ orthopaedic surgery
+ digestive internal medicine
+ obstetrics
+andrology
+surgery
+ hematology
+ gynecology
+ cardiology
+ heart and thoracic surgery
+ urology
+ other synthesis
+gynecology and obstetrics
+ pediatric synthesis
+ rheum immunology
+ ent
+pediatrics
+ infectious branch
+ neurology
+ anorectal
+other departments
+ hepatobiliary surgery
+hepatopathy
+ oncology
+ pediatric surgery
+ dermatology
+ kidney department
+internal medicine
+ general surgery
+ otolaryngology
+ stomatology
+internal
+ pediatric medicine
+oncology
+ genetic diseases
+emergency department
+infectious branch
+ rehabilitation
+nutrition section
+ respiratory medicine
+ endocrinology
+dermatology department
+ tumor surgery
+ neurosurgery
+psychiatric

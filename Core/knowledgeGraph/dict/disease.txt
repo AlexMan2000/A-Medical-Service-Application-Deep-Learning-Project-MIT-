@@ -1,0 +1,666 @@
+acute lung abscess
+hemolytic anemia
+functional vomiting
+turcot syndrome
+chronic granulomatosis
+transient ischemic attack
+congenital intestinal atresia and stenosis
+ehler-danlos syndrome
+freckle
+hepatopulmonary syndrome
+histiocytosis
+aspiration pneumonia
+cerebral infarction
+myasthenia gravis crisis
+facial neuritis
+kelamin poisoning
+leukemia-like reaction
+connective tissue enteritis
+tension headache
+aortic valve stenosis
+mesenteric lymph node tuberculosis
+acute cholecystitis
+neonatal asphyxia
+elderly vertigo
+congenital megacolon
+lung actinomycosis
+non-ulcer indigestion
+acute peritonitis
+acute myocardial infarction
+raynaud's disease
+congenital erythrocyte disease
+sinus arrest
+acute infective endocarditis
+hepatolenticular degeneration
+brain schistosomiasis
+retroperitoneal space bleeding
+disorder of consciousness
+parkinson's disease
+abdominal muscle deficiency syndrome
+aortic stenosis combined with insufficiency
+barrett's esophagus
+eosinophilic gastroenteritis
+periodic paralysis
+esophageal rupture
+osteoarthritis
+nonalcoholic fatty liver disease
+hyperuricemia
+vascular hemophilia
+obesity
+carbon disulfide poisoning
+pulmonary embolism
+physical allergic
+decompression sickness
+hysteria
+poisoning poisoning
+acute gastric dilatation
+strong acid, strong alkali poisoning
+amniotic fluid and meconium aspiration syndrome
+primary aldosteronism
+meteorite
+headache
+type iii hypersensitivity disease
+cadmium poisoning
+intestinal torsion syndrome
+thoracic aortic dissection
+chronic myeloid leukemia
+metabolic alkalosis
+knot, rectal melanosis
+neonatal hemolytic disease
+reiter syndrome
+sars
+congenital biliary atresia
+colonic torsion
+chloroquine poisoning
+anemia caused by vitamin b12 deficiency
+staphylococcal food poisoning
+spinal vascular disease
+anaphylactic shock
+small intestine injury
+irritable bowel syndrome
+guillain-barre syndrome
+rotavirus-induced gastroenteritis
+pediatric peptic ulcer
+diabetic foot
+gastroparesis syndrome
+castor bean poisoning
+hemangioblastoma
+chest wall tuberculosis
+type iv hypersensitivity disease
+diaphragmatic paralysis
+cardiac neurosis
+alcoholic liver disease
+caffeine and aminophylline poisoning
+anemia of chronic diseases
+respiratory failure
+lung bullae
+hyperthyroidism
+scorpion bruise
+parotid cyst
+eosinophilic fasciitis
+gilbert syndrome
+dermatomyositis
+tricuspid regurgitation
+surgical lymphangioma
+hodgkin's lymphoma
+child stuttering
+pediatric vomiting
+pediatric acute pancreatitis
+children's learning ability disorder
+paroxysmal nocturnal hemoglobinuria
+congenital rubella
+coronary artery ectopic origin
+colorectal carcinoid
+xanthoma
+peritonitis
+pediatric influenza
+thoracic descending aortic aneurysm
+giant bladder-small colon-intestinal peristalsis syndrome
+subcutaneous lipid granulomatosis
+stomach ache
+chronic pulmonary heart disease
+pancreatic insufficiency and neutropenia syndrome in children
+respiratory alkalosis
+silicosis
+drug allergy
+carcinoid
+surgical sebaceous cyst
+congestive splenomegaly
+anemia caused by excessive hemolysis
+breast fibroma
+asthmatic pulmonary eosinophilic infiltration
+spinal cord compression
+systemic infections caused by enterovirus
+paroxysmal ventricular tachycardia
+bile reflux gastritis
+non-parasitic hepatic cyst
+milk spill
+insecticide poisoning
+phenothiazine antipsychotic drug poisoning
+median nerve injury
+coronary heart disease
+hereditary angioedema
+lupus
+pulmonary-pleural amebiasis
+potassium permanganate poisoning
+left ventricular dysplasia
+esophageal cancer
+gastric mucosal prolapse
+pediatric tuberculous meningitis
+nodular panniculitis
+anterior pituitary hypofunction
+emphysema
+fecal nematode
+acute gastric mucosal lesions
+fulminant liver failure
+psoriatic arthritis
+serum disease
+common vomiting in childhood
+syncope
+pineal tumor
+neutral white (granulocytopenia)
+discoid lupus erythematosus
+aortic stenosis
+tuberculous mesenteric lymphadenitis
+spontaneous hemothorax
+viral myocarditis
+atherosclerosis
+acute simple gastritis
+acute suppurative cholangitis
+anastomotic ulcer
+anorexia in children
+alveolar proteinosis
+kawasaki disease
+enteral torsion
+reynolds syndrome
+lymphopenia
+hyperosmolar nonketotic diabetic coma
+sinus tachycardia
+neonatal apnea
+gastrinoma
+polyneuritis
+nitrite-containing plant food poisoning
+orthostatic hypotension
+1-1-antitrypsin deficiency
+detoxification
+building disease syndrome
+norwalk virus gastroenteritis
+legionnaires' disease
+glucose-6-phosphate dehydrogenase deficiency
+mania
+barrett syndrome
+active cecal syndrome
+esophageal scarring
+skin allergies
+complete anomalous pulmonary venous return
+opioid poisoning
+central nervous system stimulant poisoning
+adenovirus pneumonia
+peptic ulcer
+multiple endocrine neoplasia syndrome type i
+pediatric tuberculosis
+megaloblastic anemia
+hypersplenism
+gastrojejunal sputum syndrome
+aplastic anemia
+chronic lymphocytic thyroiditis
+abdominal stroke syndrome
+brain liver and kidney syndrome
+motor neuron disease
+medullary progressive paralysis
+pediatric asthma
+pulmonary hemorrhage-nephritis syndrome
+gastric and duodenal ulcer bleeding
+cerebrovascular
+gastrointestinal dysfunction
+whipple disease
+hyperlipidemia
+migraine
+hiccup
+pneumonia
+total autonomic dysfunction
+anal atresia
+respiratory bronchiole-associated interstitial lung disease
+male gonads hypofunction
+acute leukemia
+inhalation injury
+fibromatosis
+neonatal hypoglycemia and hyperglycemia
+diabetic lactic acidosis
+tuberculous empyema
+pseudomembranous colitis
+acquired arteriovenous fistula
+quinine poisoning
+iron utilization anemia
+three room heart
+gardner syndrome
+colonic diverticulosis
+diarrhea
+ulcerative colitis
+gastrointestinal cancer syndrome
+mycoplasma pneumonia
+eosinophilic adenoma
+autonomic dysfunction
+intestinal malabsorption syndrome
+hemoptysis
+disseminated intravascular coagulation
+buka syndrome
+upper gastrointestinal bleeding
+mucopolysaccharidosis
+hemorrhage
+pneumonia in children
+vitamin k deficiency
+carotid body tumor
+neonatal hypoxic ischemic encephalopathy
+colon injury
+acute gastroenteritis
+cholangiocarcinoma
+lymphocytic choriomeningitis
+c islet functional beta cell tumor
+crohn's disease
+peripheral neuritis
+neonatal subcutaneous gangrene
+formalin poisoning
+staphylococcus aureus pneumonia
+mast cell hyperplasia
+ischemic hepatitis
+lead poisoning
+undifferentiated carcinoma of the parotid gland
+mycoplasmal pneumonia in children
+tricuspid stenosis
+strong base poisoning
+aneurysm
+chronic progressive chorea
+vitamin c deficiency
+pulmonary edema
+neonatal atelectasis
+wright syndrome
+idiopathic hypereosinophilic syndrome
+zinc poisoning
+hypoglycemia
+methanol poisoning
+gastric polyp
+adhesive intestinal obstruction
+pneumonia pseudotumor
+aorta
+intestinal emphysema syndrome
+vitamin d poisoning
+acute lymphocytic leukemia
+parotid mixed tumor
+parotid tuberculosis
+bile reflux gastritis after gastrectomy
+penetrating heart trauma
+stomach disease
+paroxysmal supraventricular tachycardia
+mausoleum intestinal obstruction syndrome
+abdominal aortic thrombosis syndrome
+papillary adenoma
+primary hyperparathyroidism
+diffuse esophageal fistula
+rheumatic fever in children
+polycystic ovary syndrome
+liver fibrosis
+chronic skin mucosal candidiasis
+gastroptosis
+acute abdominal-hyperlipidemia syndrome
+cyanide poisoning
+hereditary hemorrhagic telangiectasia
+concentrated bile syndrome
+thymoma
+acute pancreatitis
+no biliary pigmentary urinary jaundice syndrome
+sodium pentachlorophenol poisoning
+pediatric staphylococcus aureus pneumonia
+respiratory acidosis
+primary thrombocytopenic purpura
+radiation pneumonitis
+ischemic colitis
+dilated cardiomyopathy
+acute pericarditis
+stomach twist
+paralytic brachial plexus neuritis
+hypothalamic disease
+gonococcal anal proctitis
+simple obesity
+familial colon polyp
+pituitary dwarf disease
+gastrointestinal food intolerance
+polyglandular deficiency syndrome
+pyrazolone poisoning
+alcoholic cardiomyopathy
+esophageal leiomyoma
+cerebral palsy syndrome
+tracheobronchial foreign body
+mixed connective tissue disease
+food poisoning
+spleen rupture
+pharyngeal schwannomas
+acute toxic encephalitis
+niemann-pick's disease
+fulminant hepatitis-like syndrome
+alcoholism
+stomach retention
+congenital thymic hypoplasia
+common peroneal nerve damage
+aortic insufficiency
+adenolymphoma
+sjogren syndrome
+chronic gastritis
+spleen-hepatic syndrome
+d-type viral hepatitis
+large amount of amniotic fluid inhalation
+adult respiratory distress syndrome
+asthmatic bronchitis
+constipation
+gastric rhythm disorder syndrome
+colonic fistula
+non-cholesteric infection
+celiac artery compression syndrome
+nodular sclerosis
+abdominal epilepsy syndrome
+macroglobulinemia
+giant cell arteritis
+pesticide poisoning
+ether poisoning
+abnormal hemoglobinopathy
+acute suppurative tenosynovitis
+colonic fecal perforation
+adult total pituitary dysfunction
+respiratory syncytial virus pneumonia
+severe combined immunodeficiency disease
+arteriosclerosis
+alzheimer's disease
+phrenic nerve palsy
+chloral hydrate poisoning
+transverse colonic embedding syndrome
+infectious shock
+vibrio parahaemolyticus food poisoning
+exogenous allergic alveolitis
+bacterial liver abscess
+acquired platelet dysfunction
+neonatal scleredema
+asthma
+prolactinoma
+anemia caused by folic acid deficiency
+rheumatic chorea
+multiple sclerosis
+allergic asthma
+mercury poisoning
+hepatitis a
+metabolic acidosis
+hypothyroidism
+cranfield syndrome
+pediatric cold
+idiopathic thrombocytopenic purpura
+hemophilia
+reflux esophagitis
+sedative, stable, hypnotic poisoning
+divided hyperbilirubinemia syndrome
+sickle cell disease
+pertussis
+esophageal foreign body
+lobular pneumonia
+esophageal diverticulum
+hepatitis e virus
+hereditary complement deficiency
+arachnoiditis
+shock
+essential thrombocytopenia
+patent ductus arteriosus
+tongue lichen planus
+adenoid cystic carcinoma
+salmonella food poisoning
+subacute thyroiditis
+jaundice
+local anesthetic poisoning
+colorectal cancer
+phosphorus poisoning
+bacterial pneumonia
+duodenal vascular compression syndrome
+omental tumor
+retroperitoneal hernia
+shock pneumonia
+peripheral neuropathy
+main-pulmonary septal defect
+cholera-like syndrome
+pheochromocytoma
+ileocecal valve syndrome
+nutritional giant erythrocyte anemia
+allergic vasculitis
+pneumocystis carinii
+acute hemorrhagic necrotic enteritis
+benign tumor of the stomach
+blindness syndrome
+insulinoma
+agranulocytosis
+acute perforation of stomach and duodenal ulcer
+pediatric allergic purpura
+carbamate pesticide poisoning
+felty syndrome
+acute myelitis
+deep palm infection
+stiff man syndrome
+cervical spondylosis
+whipworm disease
+sarcoidosis
+plummer-vinson syndrome
+fecal incontinence
+galactosemia
+hepatitis c virus
+intestinal flora disorder
+papillary cystadenocarcinoma
+acute gastritis
+chronic lymphocytic leukemia
+cystic fibrosis
+dumping syndrome
+nickel carbonyl poisoning
+selective iga deficiency
+positional vertigo
+left ventricle double outlet
+sebaceous gland
+germinated potato poisoning
+amenorrhea
+organophosphorus pesticide poisoning
+brenneman syndrome
+chlamydia pneumonia
+acute appendicitis
+acute corrosive gastritis
+hereditary ataxia
+idiopathic pulmonary fibrosis
+large intestine malignant lymphoma
+autoimmune hemolytic anemia
+retroperitoneal infection and abscess
+thrombocytopenia
+anemia
+pulmonary cryptococcosis
+lung bubble
+arsenic poisoning
+polycythemia vera
+pneumococcal pneumonia
+tropical inflammatory diarrhea
+acquired tricuspid regurgitation
+gastrointestinal food poisoning
+subacute combined degeneration of the spinal cord
+parotid virus disease
+cypress-check syndrome
+neuropathic vomiting
+obstructive emphysema
+male breast hypertrophy
+brain abscess
+inter-abdominal abscess
+alkaline calcium phosphate crystal deposition disease
+rheumatoid arthritis
+legionellosis
+aortic dissection
+infective endocarditis
+duodenal hoarding
+multiple peripheral neuritis
+radiation enteritis
+single atrium
+enteropathic cutaneous dermatitis syndrome
+chlorpromazine poisoning
+poisoned by carbon monoxide
+goodpasture syndrome
+graves disease
+vitamin e deficiency
+premature beat
+digestive tract repeat deformity
+green tumor
+ischemic cardiomyopathy
+oppressive optic neuropathy
+lung abscess
+residual sinus syndrome
+acinar cell carcinoma
+congenital absence, atresia and stenosis of the duodenum
+complete aortic dislocation
+pediatric acute laryngitis
+tuberculous peritonitis
+simple pulmonary eosinophilic infiltration
+acute cardiac insufficiency
+omental primary segmental infarction
+congenital hypertrophic pyloric stenosis
+benzene poisoning
+neurotic food poisoning
+melanoma - gastrointestinal polyposis syndrome
+suppurative sweat gland
+hematoporphyria
+gasoline, kerosene poisoning
+bronchopneumonia
+pelvic floor syndrome
+keshan disease
+idiopathic hemosiderin
+acute heart failure
+eye movement, trochlear and abducens neuropathy
+pillow nerve pain
+shoulder joint tuberculosis
+colon polyps
+gas gangrene
+ascariasis
+men's breast development
+cold
+hemangioma
+esophageal achalasia
+crude cottonseed oil poisoning
+eosinophilia
+hydroxyapatite deposition
+motion sickness
+lower gastrointestinal bleeding
+child abdominal pain
+drowning
+chronic lymphadenitis
+intermittent eyeball
+small mesenteric injury
+lung metastases
+bacteremia
+congenital pulmonary cyst
+neonatal seizure
+endocrine eyeball
+ankylosing spondylitis
+retinitis
+diabetic ketoacidosis
+desquamative interstitial pneumonia
+neonatal respiratory distress syndrome
+amoebic liver abscess
+angina pectoris
+thromboangiitis obliterans
+respiratory foreign body
+tetanus
+colorectal injury
+iris parasitic disease
+umbilical bulging - giant tongue - giant somatic syndrome
+cavernous sinus
+child sleep disorder
+food allergies and intolerance
+breast hyperplasia
+soft tissue tumor
+neonatal wet lung
+upper urethra
+superior mesenteric artery compression syndrome
+acute colonic pseudoobstructive syndrome
+acute respiratory distress syndrome
+residual gastric cancer
+osteoporosis
+acquired circulatory anticoagulant syndrome
+spinal radiculitis
+endocardial elastinosis
+acute lymphangitis
+otogenic brain abscess
+iron deficiency anemia
+tricuspid valvular deformity
+hereditary hemochromatosis
+calculous cholecystitis
+biliary cirrhosis
+colon cancer
+pulmonary aspergillosis
+simple lower extremity varices
+omental cyst
+pituitary crisis and pituitary apoplexy
+retroperitoneal lymphadenitis
+congenital intestinal rotation abnormality
+gouty arthritis
+gastric heart syndrome
+permethrin poisoning
+peritoneal mesothelioma
+adenoid hypertrophy
+hay heat
+thrombotic thrombocytopenic purpura
+heatstroke failure
+leiomyosarcoma
+pituitary tumor
+magnesium hypertrophy
+cardia cancer
+adh hypersecretion syndrome
+hemorrhagic shock
+amoebic bowel disease
+retroperitoneal fluid infiltration
+duodenal diverticulum obstructive jaundice syndrome
+chronic osteomyelitis
+cerebrostomy
+suppurative osteomyelitis
+sick sinus syndrome
+neonatal sepsis
+sexual perversion
+abdominal migraine syndrome
+abdominal cramp syndrome
+coma
+boric acid poisoning
+primary immunodeficiency disease
+carbon tetrachloride poisoning
+small chorea
+gout
+scorpion poisoning
+adrenal crisis
+bronchiectasis
+pediatric acute cholecystitis
+lung cancer
+tricuspid atresia
+myasthenia gravis
+small intestine
+neonatal bilirubin encephalopathy
+single ventricle
+lung candidiasis
+xanthium poisoning
+gasoline poisoning
+thrombotic superficial phlebitis
+magnesium deficiency
+intestinal obstruction
+acute respiratory failure
+stomach injury
+simple goiter
+cushing syndrome
+breast cancer
+salivary fistula
+hypersensitivity pneumonitis
+idiopathic obstructive bronchiolitis with organizing pneumonia
+pediatric acute bronchitis
+hepatic-thyroid syndrome
+colonic atresia
+enemy mouse poisoning
+senile deafness
+vestibular neuritis
+cerebral palsy
+pharyngeal muscle paralysis
+intussusception
+proteus food poisoning
+nodular polyarteritis
+gastrointestinal fistula
